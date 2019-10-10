@@ -1,2 +1,2 @@
 # Website-References
-This is a template of a wen=bsite using bootstrap (downloaded to file)
+This is a template of a website using bootstrap (downloaded to file)
